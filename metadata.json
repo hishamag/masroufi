@@ -1,0 +1,6 @@
+{
+  "name": "مصروفي",
+  "description": "تطبيق مصروفي لتتبع وإدارة المصاريف والمداخيل اليومية والشهرية بدون إنترنت مع تقارير وإحصائيات بيانية كاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
